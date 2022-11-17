@@ -1,0 +1,5 @@
+C:\Users\android\Documents\icaro\8d icaro para reginaldo\4d\4d\obj\Debug\net5.0\4d.csprojAssemblyReference.cache
+C:\Users\android\Documents\icaro\8d icaro para reginaldo\4d\4d\obj\Debug\net5.0\4d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\icaro\8d icaro para reginaldo\4d\4d\obj\Debug\net5.0\4d.AssemblyInfoInputs.cache
+C:\Users\android\Documents\icaro\8d icaro para reginaldo\4d\4d\obj\Debug\net5.0\4d.AssemblyInfo.cs
+C:\Users\android\Documents\icaro\8d icaro para reginaldo\4d\4d\obj\Debug\net5.0\4d.csproj.CoreCompileInputs.cache

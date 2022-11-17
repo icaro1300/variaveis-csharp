@@ -35,7 +35,7 @@ namespace ByteVetor
                 }
                 int contValidos = 0;
                 int contInvalidos = 0;
-                for (int i = 0; i < vbytes.Length; i++)
+            
                 {
                     if (vbytesB[i] == 0) { contInvalidos ++; }
                     else { contValidos ++; }

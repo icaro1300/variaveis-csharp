@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tipos de variavéis", "tipos de variavéis.csproj", "{EAFF9649-6C77-4027-A5D9-2933890DFEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipeBytelnt", "..\TipeBytelnt\TipeBytelnt.csproj", "{622335CF-21B5-43E4-989C-5951DC6425C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFF9649-6C77-4027-A5D9-2933890DFEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFF9649-6C77-4027-A5D9-2933890DFEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFF9649-6C77-4027-A5D9-2933890DFEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFF9649-6C77-4027-A5D9-2933890DFEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622335CF-21B5-43E4-989C-5951DC6425C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622335CF-21B5-43E4-989C-5951DC6425C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622335CF-21B5-43E4-989C-5951DC6425C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622335CF-21B5-43E4-989C-5951DC6425C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C21238-BEF1-4A5B-8BE3-3E43A6832ACD}
+	EndGlobalSection
+EndGlobal
